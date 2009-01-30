@@ -1,0 +1,10 @@
+C:\Documents and Settings\Owner.YOUR-EA35D65740\My Documents\Visual Studio 2005\Projects\Gnip\Remix\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner.YOUR-EA35D65740\My Documents\Visual Studio 2005\Projects\Gnip\Remix\bin\Debug\Remix.dll
+C:\Documents and Settings\Owner.YOUR-EA35D65740\My Documents\Visual Studio 2005\Projects\Gnip\Remix\bin\Debug\Remix.pdb
+C:\Documents and Settings\Owner.YOUR-EA35D65740\My Documents\Visual Studio 2005\Projects\Gnip\Remix\obj\Debug\Remix.dll
+C:\Documents and Settings\Owner.YOUR-EA35D65740\My Documents\Visual Studio 2005\Projects\Gnip\Remix\obj\Debug\Remix.pdb
+C:\Documents and Settings\Owner.YOUR-EA35D65740\My Documents\Visual Studio 2005\Projects\Gnip\Remix\bin\Release\Remix.dll
+C:\Documents and Settings\Owner.YOUR-EA35D65740\My Documents\Visual Studio 2005\Projects\Gnip\Remix\bin\Release\Remix.pdb
+C:\Documents and Settings\Owner.YOUR-EA35D65740\My Documents\Visual Studio 2005\Projects\Gnip\Remix\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner.YOUR-EA35D65740\My Documents\Visual Studio 2005\Projects\Gnip\Remix\obj\Release\Remix.dll
+C:\Documents and Settings\Owner.YOUR-EA35D65740\My Documents\Visual Studio 2005\Projects\Gnip\Remix\obj\Release\Remix.pdb
